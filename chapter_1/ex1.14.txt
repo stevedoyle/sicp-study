@@ -1,0 +1,18 @@
+count-change is O(n) in space as the max space required is equal to the amount being made up purely of 1c coins.
+
+count-change is O(n^2) in time ????
+
+count_change(11) called cc 55 times
+
+count_change(10) called cc 41 times
+count_change(20) called cc 151 times
+count_change(30) called cc 391 times
+count_change(40) called cc 837 times
+count_change(50) called cc 1571 times
+count_change(60) called cc 2751 times
+count_change(70) called cc 4521 times
+count_change(80) called cc 7079 times
+count_change(90) called cc 10657 times
+count_change(100) called cc 15499 times
+
+count_change(1000) called cc 333,082,021 times 
